@@ -117,6 +117,12 @@ Misal mencari lagu "Thriller":
 Misal mencari lagu "Duvet":
 <img width="383" height="151" alt="image" src="https://github.com/user-attachments/assets/09fa9eef-6419-4750-8907-e1c9e83310bb" />
 
+Video: 
+
+Penjabaran rumus binary interpolation:
+<img width="1280" height="1020" alt="WhatsApp Image 2026-05-11 at 10 26 39 PM" src="https://github.com/user-attachments/assets/ff9d586a-65b1-45c6-9571-718142bcf06a" />
+
+
 
 
 
