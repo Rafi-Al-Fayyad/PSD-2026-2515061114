@@ -107,4 +107,16 @@ Program ini digunakan untuk mencari judul lagu di dalam daftar playlist mengguna
 99.	Baris standar Python untuk memastikan program hanya berjalan jika file dieksekusi langsung.
 100.	Memanggil fungsi main() untuk menjalankan seluruh program.
 
+Output:
+<img width="270" height="494" alt="image" src="https://github.com/user-attachments/assets/aa16c02d-d7cb-417b-9a23-3c307c2124e6" />
+<img width="347" height="110" alt="image" src="https://github.com/user-attachments/assets/0eaa3fc4-e1f0-4b59-8562-cfcfc0f6c83c" />
+
+Misal mencari lagu "Thriller":
+<img width="387" height="200" alt="image" src="https://github.com/user-attachments/assets/adcb7b94-eea7-4ed4-9ab4-f6201326294f" />
+
+Misal mencari lagu "Duvet":
+<img width="383" height="151" alt="image" src="https://github.com/user-attachments/assets/09fa9eef-6419-4750-8907-e1c9e83310bb" />
+
+
+
 
