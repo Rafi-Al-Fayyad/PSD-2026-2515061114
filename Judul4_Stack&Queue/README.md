@@ -119,7 +119,7 @@ Pilihan 3, melihat player terdepan:
 Pilihan 4, melihat antrean:
 <img width="314" height="122" alt="image" src="https://github.com/user-attachments/assets/0dc4cd8f-16e7-4d43-98c2-e6b237535e5f" />
 
-Pilihan 5, keluar prgram:
+Pilihan 5, keluar program:
 <img width="280" height="107" alt="image" src="https://github.com/user-attachments/assets/c05dd6c3-0a0d-4157-8383-2a1695941232" />
 
 
