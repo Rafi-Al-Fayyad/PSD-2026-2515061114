@@ -123,6 +123,6 @@ Pilihan 5, keluar program:
 <img width="280" height="107" alt="image" src="https://github.com/user-attachments/assets/c05dd6c3-0a0d-4157-8383-2a1695941232" />
 
 
-Video:
+Video: https://youtu.be/c48Ry5ASjGc
 
 
