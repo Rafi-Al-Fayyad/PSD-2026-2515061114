@@ -172,3 +172,26 @@ Program ini merupakan implementasi struktur data Binary Search Tree (BST) yang d
 164. 
 165. Mengecek apakah file dijalankan sebagai program utama. 
 166. Memanggil fungsi main() untuk menjalankan program.
+
+Output: <img width="419" height="253" alt="image" src="https://github.com/user-attachments/assets/2d9189ae-f681-4222-b395-c3c2561635a0" />
+
+Pilihan 1, memasukkan nama dan skor pemain: <img width="404" height="327" alt="image" src="https://github.com/user-attachments/assets/2db0f950-1569-4d4e-b09b-4e8275d10ee9" />
+
+Pilihan 2, menampilkan leadaerboard: <img width="404" height="385" alt="image" src="https://github.com/user-attachments/assets/6ebf2e13-c80a-4735-947a-6c81c9d71c44" />
+
+Pilihan 3, melihat skor tertinggi: <img width="396" height="287" alt="image" src="https://github.com/user-attachments/assets/d89a4332-2c77-4797-817c-7dcffb953869" />
+
+Pilihan 4, melihat skor terendah: <img width="401" height="283" alt="image" src="https://github.com/user-attachments/assets/9657aba6-edf8-4059-8f58-941309ad14e1" />
+
+Pilihan 5, mencari pemain berdasarkan skor: <img width="404" height="312" alt="image" src="https://github.com/user-attachments/assets/7245b4c8-dd3d-4972-99de-ca865031fde5" />
+
+Pilihan 6, menghapus skor: <img width="443" height="679" alt="image" src="https://github.com/user-attachments/assets/de2b424a-4c28-4579-825c-3cbe6c8afad4" />
+
+Pilihan 7, berhenti: <img width="429" height="271" alt="image" src="https://github.com/user-attachments/assets/5c8d3418-5857-4be6-be65-3d792ea9b208" />
+
+
+
+
+
+
+
