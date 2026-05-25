@@ -189,9 +189,4 @@ Pilihan 6, menghapus skor: <img width="443" height="679" alt="image" src="https:
 
 Pilihan 7, berhenti: <img width="429" height="271" alt="image" src="https://github.com/user-attachments/assets/5c8d3418-5857-4be6-be65-3d792ea9b208" />
 
-
-
-
-
-
-
+Video: https://youtu.be/2IYpaqmFQnE
