@@ -111,5 +111,7 @@ Program ini merupakan implementasi Hash Map dengan metode Separate Chaining pada
 105. Mengecek apakah file dijalankan sebagai program utama.
 106. Memanggil fungsi main() untuk menjalankan program.
 
-Outuput:
+Output:
 <img width="1761" height="856" alt="image" src="https://github.com/user-attachments/assets/b7ae19f0-eca7-41a4-817a-039e12e3a78a" />
+
+Video: https://youtu.be/ESucBEBP92E
